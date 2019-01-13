@@ -12,7 +12,7 @@ This work presents the analysis from longitudinal study, where the peduncle diam
 ***
 > [Report](https://github.com/AndrMenezes/mm2017/raw/master/report.pdf)
 
-> [R script](https://github.com/AndrMenezes/mm2017/raw/master/analysis.R)
+> [R script](https://github.com/AndrMenezes/mm2017/blob/master/analysis.R)
 ***
 
 
