@@ -1,6 +1,7 @@
 # Mixed Linear Models - DEs/UEM #
 
-> The final work developed for the course of Mixed Linear Model in the first semester of 2017 at [DEs/UEM](http://www.des.uem.br/) minister by professor [Terezinha Aparecida Guedes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4783137J6).
+> Final work developed for the course of Mixed Linear Model in the first semester of 2017 
+taught by minister by professor [Terezinha Aparecida Guedes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4783137J6) at [DEs/UEM](http://www.des.uem.br/). 
 
 ## Mixed models: longitudinal study of sweet orange fruits
 
